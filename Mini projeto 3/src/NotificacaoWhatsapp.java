@@ -1,0 +1,2 @@
+public class NotificacaoWhatsapp {
+}
